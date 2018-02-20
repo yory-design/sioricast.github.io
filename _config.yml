@@ -13,7 +13,7 @@ actors:
     url: https://twitter.com/ryo_pan
 author: siori.design
 description: siori.designから記事をピックアップして紹介するPodcastです
-description_long: siori.designに投稿された記事の中から、メンバーがいいなと思ったものを中心に紹介しながら雑談するPodcastです。
+description_long: https://siori.designに投稿された記事の中から、メンバーがいいなと思ったものを中心に紹介しながら雑談するPodcast
 email: info@example.com
 exclude:
   - Gemfile
