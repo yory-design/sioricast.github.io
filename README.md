@@ -1,3 +1,3 @@
-# Yattecast
+# siori.cast
 
-https://r7kamura.github.io/yattecast/
+
