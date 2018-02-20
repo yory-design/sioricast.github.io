@@ -1,15 +1,19 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
+  yoshikikoji:
+    image_url: /images/actors/yoshikikoji.jpg
     name: yoshikikoji
     url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
+  hatch2:
+    image_url: /images/actors/hatch2.jpg
+    name: hatch2
+    url: http://sns.example.com/bob
+  ryopan:
+    image_url: /images/actors/ryopan.jpg
     name: ryopan
     url: http://sns.example.com/bob
 author: siori.design
 description: siori.designから記事をピックアップして紹介するPodcastです
-description_long: Example long description
+description_long: siori.designに投稿された記事の中から、メンバーがいいなと思ったものを中心にだらだらするPodcastです。
 email: info@example.com
 exclude:
   - Gemfile
