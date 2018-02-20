@@ -1,14 +1,14 @@
 actors:
   alice:
     image_url: /images/actors/alice.png
-    name: alice
+    name: yoshikikoji
     url: http://sns.example.com/alice
   bob:
     image_url: /images/actors/bob.png
-    name: bob
+    name: ryopan
     url: http://sns.example.com/bob
-author: alice
-description: Example description
+author: siori.design
+description: siori.designから記事をピックアップして紹介するPodcastです
 description_long: Example long description
 email: info@example.com
 exclude:
@@ -26,5 +26,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
+title: siori.cast
 url: http://example.com
