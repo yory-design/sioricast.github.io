@@ -9,11 +9,16 @@
 
   &-heading {
     font-size: 1.5rem;
-    padding-bottom: 20px;
+    font-weight: bold;
+    padding-bottom: 8px;
+  }
+  
+  &-footer {
+    padding-bottom: 8px;
   }
 
   &-images {
-    margin-top: 8px;
+    margin-top: 12px;
 
     &-element {
       border-radius: 50%;
